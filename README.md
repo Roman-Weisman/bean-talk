@@ -1,0 +1,2 @@
+# bean-talk
+Ollama TUI
